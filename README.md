@@ -6,7 +6,7 @@
 ## 🖥️ Backend: Node.js, Express.js, Python, Django, PHP, Java, MySQL, MongoDB
 # 🗂️ My Projects
 ## ♨️ Java
-### 1️⃣ [Airline Management System](https://www.google.com)
-#### Description: 
-#### Technologies: 
+### 1️⃣ [Airline Management System](https://github.com/SondharavaPalak/Airline-Management-System)
+#### Description: "Java-based airline management system with flight booking, employee, and flight management features."
+#### Technologies: Java ,JDBC
 
