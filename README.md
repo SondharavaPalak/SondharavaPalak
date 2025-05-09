@@ -23,3 +23,7 @@
 ### 1️⃣ [Airline Management System](https://github.com/SondharavaPalak/Airline-Management-System)
 #### Description: "Java-based airline management system with flight booking, employee, and flight management features."
 #### Technologies: Java ,JDBC ,MySQL
+### 2️⃣ [Car Rental System](https://github.com/SondharavaPalak/Car-Rental-System)
+#### Description: "Java-based car rental system with functionality to rent cars, and admins to manage the car inventory"
+#### Technologies: Java
+
