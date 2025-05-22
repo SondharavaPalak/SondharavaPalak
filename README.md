@@ -29,4 +29,7 @@
 ## 🐍 Python
 ### 1️⃣ [House Price Prediction System](https://github.com/SondharavaPalak/House-Price-Prediction)
 #### Description: "This project predicts house prices using machine learning, leveraging property features like size, age, location, and renovations. It uses XGBoost with feature engineering and preprocessing for accurate regression modeling."
-#### Technologies: Python,Pandas,Scikit-learn,XGBoost  
+#### Technologies: Python,Pandas,Scikit-learn,XGBoost 
+### 2️⃣ [File Organizer and Manager] (https://github.com/SondharavaPalak/File-Organizer-and-Manager)
+#### Description: "This project effortlessly manage, organize, and track your files with Python and MySQL.
+#### Technologies: Python,MySQL,colorma,logging
