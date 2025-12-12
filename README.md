@@ -27,4 +27,6 @@
 ### 4️⃣ [File Organizer and Manager](https://github.com/SondharavaPalak/File-Organizer-and-Manager)
 #### Description: This project effortlessly manage, organize, and track your files with Python and MySQL.
 #### Technologies: Python,MySQL,colorma,logging 
-
+### 5️⃣ [EduDesk](https://github.com/SondharavaPalak/EduDesk)
+#### Description: EduDesk is an AI-powered platform for seamless learning, smart assessments, and collaborative education management.
+#### Technologies: Python(Django,DRF),SQLite,Google Gemini API,React 
