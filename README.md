@@ -2,18 +2,17 @@
 # 👋 Hey, I am Palak Sondharava!
 ## I'm a passionate **3rd-year Computer Engineering student** with a focus on **web development and data engineering**. I enjoy working behind the scenes — creating secure, scalable, and logic-driven backend architectures.
 # 📈 My Skills  
-#### HTML5
-#### CSS3 
 #### JavaScript (ES6+)
 #### MERN stack 
 #### Bootstrap
 #### Tailwind CSS
-#### Python
+#### Python (Django)
 #### Django
-#### PHP
+#### PHP 
 #### Java
 #### MySQL
 #### MongoDB 
+#### Docker 
 # 🗂️ My Projects
 ### 1️⃣ [Airline Management System](https://github.com/SondharavaPalak/Airline-Management-System)
 #### Description: Java-based airline management system with flight booking, employee, and flight management features.
@@ -30,3 +29,6 @@
 ### 5️⃣ [EduDesk](https://github.com/SondharavaPalak/EduDesk)
 #### Description: EduDesk is an AI-powered platform for seamless learning, smart assessments, and collaborative education management.
 #### Technologies: Python(Django,DRF),SQLite,Google Gemini API,React 
+### 6️⃣ [DataViz](https://github.com/SondharavaPalak/Dataviz)
+#### Description: Upload, analyze, and visualize your data with AI-powered insights - built with Django & React.
+#### Technologies: Python(Django,DRF),React,Docker
